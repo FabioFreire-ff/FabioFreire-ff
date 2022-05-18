@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Fábio Freire 👋
- 
 - 📚 Estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco (UFAPE).
 
 <div align="center">
